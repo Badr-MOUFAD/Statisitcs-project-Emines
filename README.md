@@ -1,6 +1,7 @@
 # Exploring the effect of Sway Descriptors on Risk of Fall in Elderly [[Repport](https://github.com/AnasAito/Statisitcs-project-Emines/blob/main/Statistics_repport_2021.pdf)] - [[Slides]()]
 
-this repo contains the codebase for ur statistics paper divided into notebooks wich can be used to reproduce our findings .  
+this repo contains the codebase for our statistics project divided into notebooks wich can be used to reproduce our findings in each section .  
+## links to code
 - [Exploration of the data set](https://github.com/AnasAito/Statisitcs-project-Emines/blob/main/Exploration_of_the_data_set.ipynb)
 - [Individual effect of predictors on target variable] () 
 - [Effect of predictors Linear combination on target] () 
